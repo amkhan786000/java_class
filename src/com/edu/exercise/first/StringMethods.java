@@ -2,18 +2,18 @@ package com.edu.exercise.first;
 
 public class StringMethods {
     public static void main(String[]args){
-        String name ="shakib khan";
-        String name1="tanwir alam";
-        System.out.println("Name: "+name1);
+        String name ="shakib";
+        String name1="khan";
+//        System.out.println("Name: "+name1);
 //        System.out.println("lower case: "+name.toLowerCase());
-//        System.out.println("uppercase: "+name.toUpperCase());
+//        System.out.println("uppercase: "+name1.toUpperCase());
 //        System.out.println("first char: "+name.charAt(0));
 //        System.out.println("Length: "+name.length());
 //        System.out.println("last char: "+name.charAt(3));
-//        System.out.println("substring: "+name.substring(4,6));
+//        System.out.println("substring: "+name.substring(0,3));
 //        System.out.println("equals: "+name.equals(name1));
 //        System.out.println("compareto: "+name.compareTo(name1));
-//        System.out.println("contains: "+name.contains("sh"));
+//        System.out.println("contains: "+name.contains("Sha"));
 //        System.out.println("equalignorecase: "+name.equalsIgnoreCase(name1));
 //        System.out.println("getbytes: "+name.getBytes());
 //        System.out.println("indexof: "+ls name.indexOf("k"));
@@ -26,5 +26,7 @@ public class StringMethods {
 //        for (String a : words)
 //            System.out.println("replace: "+a);
 
+
     }
+
 }

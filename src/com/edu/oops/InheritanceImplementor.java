@@ -26,7 +26,7 @@ class Administrator extends Employee{
         super.firstName="Admin";
     }
     public void work(){
-//        super.work();
+        //super.work();
         System.out.println(firstName+"  is working and my last name is "+lastName);
         //System.out.println("My wife name is "+myWifeName);
     }
